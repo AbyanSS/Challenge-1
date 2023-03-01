@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Ini versi kedua
 public class Challenge1{
     public static void main(String[] args){
         MainMenu();
